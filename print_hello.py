@@ -1,11 +1,11 @@
 #-------------------------------------------------------------------------------
 # Name:        print hello
-# Purpose:
+# Purpose:     to test
 #
 # Author:      thadeous
 #
 # Created:     07/12/2018
-# Copyright:   (c) bbob 2018
+# Copyright:   (c) thadeous 2018
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
