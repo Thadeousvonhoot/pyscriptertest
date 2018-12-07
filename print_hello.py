@@ -2,7 +2,7 @@
 # Name:        print hello
 # Purpose:
 #
-# Author:      bbob
+# Author:      thadeous
 #
 # Created:     07/12/2018
 # Copyright:   (c) bbob 2018
